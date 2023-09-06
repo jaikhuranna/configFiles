@@ -1,0 +1,17 @@
+indicator
+ignore-empty-password
+indicator-thickness=15
+indicator-radius=150
+image=~/Applications/Linux_Dynamic_Wallpapers/Dynamic_Wallpapers/WaterHill/WaterHill-2.png 
+clock
+effect-blur=7x5
+effect-vignette=0.5:0.5
+ring-color=00bfff
+line-color=00000000
+inside-color=00000088
+inside-clear-color=00000088
+text-color=ffffff
+text-clear-color=ffffff
+ring-clear-color=00bfff
+separator-color=00000000
+font=JetBrains Mono Nerd font
